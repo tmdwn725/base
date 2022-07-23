@@ -14,5 +14,4 @@ public class MainService {
 	public MainService(MemberRepository memberRepository) {
 		this.memberRepository = memberRepository;
 	}
-	
 }
