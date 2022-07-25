@@ -10,5 +10,3 @@ spring:
   show-sql: true
   hibernate:
    ddl-auto: none
-logging:
-  config: classpath:log4j2.xml
